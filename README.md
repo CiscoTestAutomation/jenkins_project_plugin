@@ -15,7 +15,7 @@ jobs within Jenkins, with native UI support for various pyATS command line argum
 - [REST API Support](guide/rest.md)
 - [Related Plugins](guide/related.md)
 
-## Related Plugins
+## Related pyATS Plugins
 - [pyATS Jenkins Report Plugin](https://github.com/CiscoTestAutomation/jenkins_report_plugin)
 - [S3 Executor Plugin](https://github.com/CiscoTestAutomation/jenkins_executor_plugin)
 
