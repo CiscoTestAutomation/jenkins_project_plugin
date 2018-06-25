@@ -31,8 +31,8 @@ jobs within Jenkins, with native UI support for various pyATS command line argum
 
 ## Workflow Diagram
 
-Using Project plugin, Report plugin, and viewing logs in Cisco S3 dashboard:
+#### Using Project plugin, Report plugin, and viewing logs in Cisco S3 dashboard:
 ![](guide/assets/images/workflow-1.png)
 
-Using S3 Execution plugin to kick off builds, and goign through S3 dashboard:
+#### Using S3 Execution plugin to kick off builds, and going through S3 dashboard:
 ![](guide/assets/images/workflow-2.png)
