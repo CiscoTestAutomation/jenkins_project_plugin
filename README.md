@@ -5,6 +5,7 @@ jobs within Jenkins, with native UI support for various pyATS command line argum
 
 ## Table Of Content
 - [Feature Highlights](#feature-highlights)
+- [Workflow](#workflow-diagram)
 - [Installation](guide/installation.md)
 - [Quick Start](guide/quick_start.md)
 - [Environment Configuration](guide/environment.md)
@@ -27,3 +28,11 @@ jobs within Jenkins, with native UI support for various pyATS command line argum
 * Email generation upon run completion with result of the run
 * Project auto provisioning (via yaml file)
 * Interface with pyATS Report plugin for log viewing and uploading to Cisco Self Serve Services (S3) portal.
+
+## Workflow Diagram
+
+Using Project plugin, Report plugin, and viewing logs in Cisco S3 dashboard:
+![](guide/assets/images/workflow-1.png)
+
+Using S3 Execution plugin to kick off builds, and goign through S3 dashboard:
+![](guide/assets/images/workflow-2.png)
