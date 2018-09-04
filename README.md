@@ -36,3 +36,7 @@ jobs within Jenkins, with native UI support for various pyATS command line argum
 
 #### Using S3 Execution plugin to kick off builds, and going through S3 dashboard:
 ![](guide/assets/images/workflow-2.png)
+
+# ChangeLog
+
+* [2018](changelog/2018/CHANGELOG.md)
