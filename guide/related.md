@@ -107,3 +107,11 @@ Third party plugin allows JUnit-format test results to be published. To make the
 https://wiki.jenkins-ci.org/display/JENKINS/JUnit+Plugin
 
 ![](assets/images/plugin11.png)
+
+* Ansicolor Plugin
+
+Third party plugin allows display colored console logs.
+
+https://wiki.jenkins.io/display/JENKINS/AnsiColor+Plugin
+
+![](assets/images/plugin12.png)
