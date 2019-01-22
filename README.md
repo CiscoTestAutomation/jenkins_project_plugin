@@ -40,3 +40,4 @@ jobs within Jenkins, with native UI support for various pyATS command line argum
 ## ChangeLog
 
 * [2018](changelog/2018/CHANGELOG.md)
+* [2019](changelog/2019/CHANGELOG.md)

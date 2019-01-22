@@ -37,8 +37,10 @@ There are six groups of pyATS parameters available for users to use:
 * File Parameter - Plugin uses Jenkins native _File Parameter_ to pass two important files into pyATS jobs. These specific pyATS parameters are prefixed with  *pyats_*  and provide information on:
   * **pyats_cleanfile.yaml** - user can supply the pyATS clean file into the run instead of path of the file.
   * **pyats_userconfig.yaml** - user can supply the pyATS user config file into the run instead of using default pyATS system config.
+  * **pyats_cleanfile_base.yaml** - user can supply the pyATS base clean file into the run instead of path of the file.
 
 ![](assets/images/para7.png)
+![](assets/images/para7_2.png)
 
 When execute the build with parameters, user can dynamically change the parameter values for each run.
 
