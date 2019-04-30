@@ -17,7 +17,7 @@ jobs within Jenkins, with native UI support for various pyATS command line argum
 
 ## Related pyATS Plugins
 - [pyATS Jenkins Report Plugin](https://github.com/CiscoTestAutomation/jenkins_report_plugin)
-- [S3 Executor Plugin](https://github.com/CiscoTestAutomation/jenkins_executor_plugin)
+- [Xpresso Plugin](https://github.com/CiscoTestAutomation/jenkins_executor_plugin)
 
 ## Feature Highlights
 * Running one or more pyATS Jobs
@@ -27,14 +27,14 @@ jobs within Jenkins, with native UI support for various pyATS command line argum
 * Runtime overwriting Easypy job parameters
 * Email generation upon run completion with result of the run
 * Project auto provisioning (via yaml file)
-* Interface with pyATS Report plugin for log viewing and uploading to Cisco Self Serve Services (S3) portal.
+* Interface with pyATS Report plugin for log viewing and uploading to Cisco Xpresso portal.
 
 ## Workflow Diagram
 
-#### Using Project plugin, Report plugin, and viewing logs in Cisco S3 dashboard:
+#### Using Project plugin, Report plugin, and viewing logs in Cisco Xpresso dashboard:
 ![](guide/assets/images/workflow-1.png)
 
-#### Using S3 Execution plugin to kick off builds, and going through S3 dashboard:
+#### Using Xpresso plugin to kick off builds, and going through Xpresso dashboard:
 ![](guide/assets/images/workflow-2.png)
 
 ## ChangeLog
