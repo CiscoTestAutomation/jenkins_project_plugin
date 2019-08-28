@@ -5,3 +5,4 @@
 * [March](MAR.md)
 * [April](APR.md)
 * [July](JUL.md)
+* [August](AUG.md)
